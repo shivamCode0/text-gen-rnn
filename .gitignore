@@ -1,0 +1,5 @@
+tmp/*
+!tmp/.gitkeep
+__pycache__
+models/*
+!models/vocab.json
